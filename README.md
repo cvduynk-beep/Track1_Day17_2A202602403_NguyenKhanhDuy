@@ -52,10 +52,20 @@
 * **JTBD Hypothesis (Giả thuyết việc cốt lõi cần hoàn thành)**:
   > Khi **kết thúc một bài học có dung lượng kiến thức lớn**, tôi muốn **nhanh chóng có một bản tổng hợp rõ ràng về các điểm mình còn vướng mắc**, để có thể **ôn tập trọng tâm trong thời gian ngắn nhất mà không phải tốn hàng giờ xem lại toàn bộ video bài giảng**.
 
-### 5. Pain (Khó khăn) — Hai cách giải thích cạnh tranh
-* **Pain Hypothesis A (Giả thuyết A - Trọng tâm ở khâu lưu trữ & ôn tập sau buổi học)**:
+### 5. Pain (Khó khăn) — Ba Hướng Tiếp Cận & Hai Giả Thuyết Cạnh Tranh
+
+#### 5.1. Ba Hướng Tiếp Cận Về Vấn Đề Của Case B (Problem Angles - Các góc nhìn về vấn đề)
+Trước khi chốt giả thuyết kiểm chứng, nhóm phân tích 3 rào cản tâm lý và hành vi cốt lõi của người học:
+* **Hướng 1 — Quá tải nhận thức trong lúc nghe giảng (*Cognitive Overload* - gánh nặng nhận thức của não bộ)**: Người học bị phân tâm giữa hai hành động "hiểu bài" và "chép bài". Nếu cúi xuống gõ chép thì lập tức lỡ mất lời giảng tiếp theo của giảng viên; nếu chỉ ngồi nghe thì sau buổi học không còn tài liệu gì để nhớ và ôn lại.
+* **Hướng 2 — Tích trữ thông tin rời rạc nhưng không bao giờ xem lại (*Information Hoarding & Fragmentation* - hội chứng tích trữ thông tin và sự phân mảnh dữ liệu)**: Người học có thói quen chụp ảnh màn hình, tô sáng hoặc gõ vài dòng ngắn cụt lủn. Sau buổi học, những mảnh thông tin này nằm rải rác trên nhiều ứng dụng, mất đi ngữ cảnh bài giảng nên khi mở ra không hiểu mình từng viết tắt điều gì, dẫn đến việc bỏ xó ghi chú và phải tốn thời gian học lại từ đầu.
+* **Hướng 3 — Thất bại trong việc tra cứu điểm nghẽn kiến thức (*Retrieval Failure* - sự bế tắc khi tra cứu và ôn tập)**: Người học không phân biệt được phần nào mình đã hiểu sâu và phần nào mình chỉ mới hiểu lơ mơ. Khi cần ôn thi hoặc làm bài tập, họ dàn trải thời gian đọc lại từ đầu đến cuối một cách thụ động thay vì tập trung vào đúng những chỗ bản thân từng bị vướng mắc.
+
+$\rightarrow$ **Lựa chọn của nhóm**: Nhóm quyết định chọn **Hướng 2** làm giả thuyết điều tra trọng tâm (*Pain Hypothesis A*) và so sánh đối nghịch với **Hướng 1** (*Pain Hypothesis B*) để kiểm chứng trong buổi phỏng vấn.
+
+#### 5.2. Hai Cách Giải Thích Cạnh Tranh (Pain Hypotheses A & B)
+* **Pain Hypothesis A (Giả thuyết A - Trọng tâm ở khâu lưu trữ & ôn tập sau buổi học theo Hướng 2)**:
   > Khi hoàn thành bài học, người học gặp khó khăn trong việc ôn tập vì **các ghi chú và ảnh chụp màn hình nằm rải rác, thiếu ngữ cảnh liên kết** (*barrier* - rào cản), dẫn đến **họ lười mở lại xem và quên sạch kiến thức chỉ sau vài ngày** (*consequence* - hậu quả).
-* **Pain Hypothesis B (Giả thuyết B - Trọng tâm ở khâu tiếp thu trong buổi học)**:
+* **Pain Hypothesis B (Giả thuyết B - Trọng tâm ở khâu tiếp thu trong buổi học theo Hướng 1)**:
   > Trong khi nghe giảng, người học gặp khó khăn trong việc tiếp thu vì **việc vừa phải hiểu bài vừa phải cúi xuống chép bài gây quá tải nhận thức** (*barrier* - rào cản), dẫn đến **họ bị lỡ mất những giải thích quan trọng tiếp theo của giảng viên** (*consequence* - hậu quả).
 * **Giả thuyết nhóm chọn điều tra trước**: **Pain Hypothesis A**.
 * **Lý do chọn**: Vì tính năng *AI Notes* được kích hoạt chủ yếu sau khi bài học kết thúc (khi người học cần tổng hợp để ôn tập), giải quyết trực tiếp rào cản về việc kết nối các ghi chú rời rạc thành kiến thức hệ thống.
