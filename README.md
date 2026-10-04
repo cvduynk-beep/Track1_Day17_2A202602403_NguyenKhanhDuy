@@ -10,13 +10,13 @@
 
 ## PHẦN 1: THÔNG TIN CÁ NHÂN VÀ NHÓM
 
-* **Mã học viên (MHV)**: 02403
+* **Mã học viên (MHV)**: 2A202602403
 * **Họ và tên**: Nguyễn Khánh Duy
-* **Tên nhóm**: [Tên nhóm của bạn - ví dụ: Nhóm 03 / Team Innovation]
+* **Tên nhóm**: [Tên nhóm của bạn]
 * **Danh sách thành viên trong nhóm**:
-  1. Nguyễn Khánh Duy (MHV: 02403)
-  2. [Họ và tên thành viên 2 - MHV]
-  3. [Họ và tên thành viên 3 - MHV]
+  1. Nguyễn Khánh Duy — 2A202602403
+  2. Lê Thanh Tùng — 2A202602499
+  3. Cao Đức Hiệp — 2A202602550
 * **Case (Tình huống bài toán) đã chọn**: **Case B — AI Notes: Personal Learning Notes** (Ghi chú học tập cá nhân bằng trí tuệ nhân tạo).
 
 ---
@@ -149,18 +149,20 @@ $\rightarrow$ **Quyết định chốt của nhóm**: Nhóm quyết định ch�
 
 ## PHẦN 4: PRACTICE REFLECTION (ĐÚC KẾT KINH NGHIỆM SAU PHỎNG VẤN)
 
-*(Dựa trên trải nghiệm thực tế 15 phút làm người phỏng vấn của học viên Nguyễn Khánh Duy)*
+*(Dựa trên trải nghiệm thực tế cuộc phỏng vấn 05 phút 14 giây của học viên Nguyễn Khánh Duy với sinh viên năm 3 ngành AI trường Đại học FPT)*
 
 ### 1. Câu hỏi nào đã giúp người dùng cởi mở chia sẻ một tình huống cụ thể?
-> Câu hỏi: *"Kể cho mình nghe về lần gần nhất bạn tham gia một buổi học trực tuyến có nhiều công thức phức tạp và bạn cần lưu lại?"* đã giúp người được phỏng vấn lập tức nhớ lại phiên học cụ thể vào tối thứ Tư. Nhờ neo vào sự kiện quá khứ cụ thể, họ bắt đầu mô tả chi tiết từ tư thế ngồi học, việc mở hai màn hình song song, đến việc chụp hơn chục bức ảnh màn hình rồi lưu vào ứng dụng ghi chú.
+> Câu hỏi: *"Sau khi bài kết thúc thì em có xem lại các ghi chú hoặc hình ảnh mà mình lưu lại không?"* và câu hỏi tiếp nối: *"Lần gần nhất em cần nhớ lại hoặc tra cứu phần chưa hiểu thì em làm thế nào?"* đã giúp người được phỏng vấn chia sẻ thật lòng 100%. Nhờ câu hỏi này, bạn ấy thẳng thắn thừa nhận: *"Không, một khi em đã hiểu thì gần như em không xem lại luôn, em chỉ xem lại những cái em không hiểu thôi"*. Câu trả lời chân thật này lập tức làm lung lay giả thuyết ban đầu của nhóm (vốn nghĩ rằng người học luôn cần mở lại một bản ghi chép đầy đủ từ đầu đến cuối), đồng thời làm lộ ra **hành vi thực tế** (*actual behavior*): người học dùng Zalo để lưu tạm rồi **copy** (sao chép) sang công cụ hỏi đáp thông minh (**AI Chat** - phần mềm trò chuyện trí tuệ nhân tạo) để hỏi cặn kẽ từng khái niệm.
 
 ### 2. Điểm nào bản thân cần làm tốt hơn ở lần phỏng vấn thật tiếp theo?
-> Bản thân nhận thấy trong 5 phút đầu vẫn còn phản xạ nói quá nhiều và suýt nữa đã gợi ý giải pháp khi người được phỏng vấn than phiền về việc ảnh chụp màn hình bị lộn xộn. Ở lần phỏng vấn thật ngoài thực địa, mình cần rèn luyện phản xạ im lặng lắng nghe nhiều hơn, tuyệt đối không ngắt lời người kể và kiên nhẫn dùng các câu hỏi ngắn trong *Probe Bank* để họ tự nói ra hết hành vi của mình.
+> Khi nghe lại bản ghi âm, bản thân nhận ra 2 điểm thiếu sót cần khắc phục:
+> 1. **Vẫn còn đặt câu hỏi đóng mang tính mớm ý**: Ví dụ câu *"tức là em toàn đánh phím chứ không viết tay đúng không?"* hoặc *"em có gặp vấn đề gì trong việc tìm nội dung này thuộc trang bài giảng nào không?"*. Thay vì gợi ý sẵn đáp án, ở lần phỏng vấn thực tế ngoài thị trường, mình cần đặt câu hỏi mở hoàn toàn: *"Lúc đó bạn đã thao tác lưu lại bằng cách nào?"* và *"Khi mở lại ghi chú thì điều gì làm bạn thấy khó khăn nhất?"*.
+> 2. **Chưa giữ đủ khoảng lặng**: Sau khi người được phỏng vấn trả lời câu ngắn, mình cần kiên nhẫn dừng lại 3 giây để người học có thời gian hồi tưởng và tự kể thêm các chi tiết sâu hơn, thay vì vội vã chuyển ngay sang câu hỏi tiếp theo.
 
 ### 3. Sau khi luyện tập, nhóm đã sửa đổi Conversation Guide ở đâu và vì sao?
-> Nhóm đã quyết định sửa đổi 2 điểm quan trọng:
-> 1. Thêm câu hỏi bắt buộc về thời gian hao phí: *"Bạn mất bao nhiêu phút để tìm lại kiến thức khi ghi chú bị thiếu?"* để đo lường định lượng được mức độ nghiêm trọng của hậu quả (*consequence*).
-> 2. Đưa phản xạ **Deflect** (né lời khen) vào vị trí dễ nhìn nhất trong tài liệu, vì trong lúc phỏng vấn thử, người trả lời rất hay khen ngợi *"ước gì có công cụ tự gom bài giúp mình"*, khiến người hỏi suýt nữa bị cuốn vào việc giới thiệu tính năng giải pháp.
+> Nhóm đã quyết định cập nhật thêm 2 điểm đắt giá vào bản hướng dẫn phỏng vấn:
+> 1. **Bổ sung câu hỏi về trải nghiệm công cụ ghi chú hiện tại trên web**: Xuất phát từ phản ánh rất thực tế của bạn sinh viên FPT về việc ô ghi chú trên giao diện học tập bị chật hẹp, không phóng to được và cuộn lướt rất khó chịu, nhóm thêm câu: *"Khi thao tác ghi chú trực tiếp trên bài giảng, bạn gặp bất tiện gì về mặt giao diện không?"*.
+> 2. **Bổ sung câu hỏi lượng hóa chi phí thời gian**: Thêm câu hỏi đào sâu: *"Mỗi lần tra cứu để hiểu lại bài, bạn mất bao nhiêu phút cho một phần và cho toàn bộ buổi học?"* để đo lường được con số thực tế (từ 5-10 phút cho mỗi thuật ngữ và 30-40 phút cho cả buổi học) nhằm chứng minh khó khăn này đủ lớn và đáng để giải quyết.
 
 ---
 
