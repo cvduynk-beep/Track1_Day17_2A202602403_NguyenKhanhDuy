@@ -14,8 +14,8 @@ Tệp âm thanh gốc đã được lưu trữ trực tiếp trong thư mục b�
 ---
 
 ### 2. Đường Dẫn Dự Phòng Trực Tuyến (Online Backup Link - Nếu cần)
-* **Link lưu trữ đám mây**: `https://drive.google.com/file/d/YOUR_RECORDING_LINK_HERE/view?usp=sharing`
-  *(Bạn có thể tải thêm bản sao lên Google Drive và dán đường link dự phòng vào đây nếu muốn).*
+* **Trạng thái lưu trữ**: File âm thanh gốc `recording.m4a` đã được đính kèm trực tiếp trong thư mục này (`interview/recording.m4a`) và đẩy lên cùng kho lưu trữ GitHub để Giảng viên/TA có thể nghe trực tiếp.
+* **Link lưu trữ đám mây (Google Drive dự phòng)**: *Đã đính kèm file trực tiếp trong repo (nếu tải thêm lên Drive, dán link vào đây).*
 
 > [!NOTE]
 > **Quy định bảo mật**:

@@ -12,7 +12,7 @@
 
 * **Mã học viên (MHV)**: 2A202602403
 * **Họ và tên**: Nguyễn Khánh Duy
-* **Tên nhóm**: [Tên nhóm của bạn]
+* **Tên nhóm**: Nhóm Case B (Lê Thanh Tùng, Nguyễn Khánh Duy, Cao Đức Hiệp)
 * **Danh sách thành viên trong nhóm**:
   1. Nguyễn Khánh Duy — 2A202602403
   2. Lê Thanh Tùng — 2A202602499
